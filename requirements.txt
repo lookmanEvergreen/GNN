@@ -1,0 +1,9 @@
+Flask
+torch
+torch_geometric
+networkx
+scikit-learn
+pandas
+numpy
+matplotlib
+beautifulsoup4
